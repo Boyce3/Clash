@@ -36,7 +36,7 @@ rule-providers:
 # 分流Policy 
 rules:
   - RULE-SET,Emby,Emby
-  - RULE-SET,Facebook,Facebook
+  - RULE-SET,Facebook,德国节点
   - RULE-SET,Github,Github
   - RULE-SET,Google,Google
   - RULE-SET,Microsoft,Microsoft
