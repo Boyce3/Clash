@@ -1,0 +1,54 @@
+# NAME: Emby
+# AUTHOR: Boyce3
+# UPDATED: 2024-12-04
+payload:
+  - DOMAIN,cdn.lyrebirdemby.com
+  - DOMAIN-SUFFIX,jmsuper.com
+  -DOMAIN-SUFFIX,emby.wtf
+  -DOMAIN-SUFFIX,term.wtf
+  -DOMAIN-SUFFIX,embyplus.org
+  -DOMAIN,pilipili.club
+  -DOMAIN,pilipili.misakaf.org
+  -DOMAIN,film.hovervan.org
+  -DOMAIN,emby.bangumi.ca
+  -DOMAIN,789.123456.al
+  -DOMAIN,free.emby.eu.org
+  -DOMAIN,cf.imetyou.top
+  -DOMAIN,emby.apopcloud.live
+  -DOMAIN-SUFFIX,mius.uk
+  -DOMAIN,yhemby.top
+  -DOMAIN,play.charontv.com
+  -DOMAIN,emby.awatv.de
+  -DOMAIN-SUFFIX,lilyya.xyz
+  -DOMAIN-SUFFIX,alphatvapp.top
+  -IP-CIDR,104.243.41.35/32
+  -DOMAIN-SUFFIX,sfcj.org
+  -DOMAIN,jsq.mooguu.xyz
+  -DOMAIN-SUFFIX,aliz.work
+  -DOMAIN,581658.best
+  -DOMAIN-SUFFIX,7777777.buzz
+  -DOMAIN,nanflix.net
+  -DOMAIN-SUFFIX,1024.name
+  -DOMAIN-SUFFIX,mcjoker.xyz
+  -DOMAIN-SUFFIX,viclub.top
+  -DOMAIN,cc.coemn.com
+  -DOMAIN,cc.embycc.link
+  -DOMAIN,dl.carryz.net
+  -DOMAIN-SUFFIX,catlinks.co.uk
+  -DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
+  -DOMAIN,eggtartemby.itsmyduty.top
+  -DOMAIN-SUFFIX,nebula-media.org
+  -DOMAIN-SUFFIX,tanhuatv.site
+
+
+
+
+
+
+
+
+
+
+
+
+  
