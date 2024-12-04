@@ -1,5 +1,5 @@
 proxy-groups:
-#分流分组
+# 分流分组
   - {name: Emby, type: select, proxies: [DIRECT, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png }
   - {name: Github, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Github.png}
   - {name: Google, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
@@ -10,7 +10,7 @@ proxy-groups:
   - {name: Youtube, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/YouTube.png }
   - {name: Final, type: select, proxies:  [DIRECT, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png }
   
-#节点分组
+# 节点分组
   - {name: 香港节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "港|HK|(?i)Hong", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png }
   - {name: 台湾节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "台|湾|TW|(?i)Taiwan", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png } 
   - {name: 美国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "美|US|(?i)States|American", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
