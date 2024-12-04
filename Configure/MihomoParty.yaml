@@ -3,7 +3,7 @@ proxy-groups:
   - {name: Emby, type: select, proxies: [DIRECT, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png }
   - {name: Github, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Github.png}
   - {name: Google, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
-  - {name: Microsoft,  type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png }
+  - {name: Microsoft,  type: select, proxies: [DIRECT, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png }
   - {name: OpenAi,  type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png }
   - {name: Telegram, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png }
   - {name: Twitter, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,德国节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
