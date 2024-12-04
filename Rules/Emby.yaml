@@ -21,7 +21,6 @@ payload:
   - DOMAIN,emby.awatv.de
   - DOMAIN-SUFFIX,lilyya.xyz
   - DOMAIN-SUFFIX,alphatvapp.top
-  - IP-CIDR,104.243.41.35/32
   - DOMAIN-SUFFIX,sfcj.org
   - DOMAIN,jsq.mooguu.xyz
   - DOMAIN-SUFFIX,aliz.work
