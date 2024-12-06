@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2024-12-04
+# UPDATED: 2024-12-06
 payload:
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN-SUFFIX,jmsuper.com
@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,aliz.work
   - DOMAIN,581658.best
   - DOMAIN-SUFFIX,7777777.buzz
+  - IP-CIDR,5.45.109.91/32
   - DOMAIN,nanflix.net
   - DOMAIN-SUFFIX,1024.name
   - DOMAIN-SUFFIX,mcjoker.xyz
