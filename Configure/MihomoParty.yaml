@@ -2,8 +2,9 @@
 # UPDATED: 2024-12-06
 
 proxy-groups:
-# 分流分组
+# 策略分组
   - {name: Emby, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
+  - {name: Facebook, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Facebook.png }
   - {name: Github, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/github.png }
   - {name: Google, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Google.png }
   - {name: Microsoft,  type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Microsoft.png }
@@ -40,7 +41,7 @@ rule-providers:
 rules:
 # 分流Policy 
   - RULE-SET,Emby,Emby
-  - RULE-SET,Facebook,德国节点
+  - RULE-SET,Facebook,Facebook
   - RULE-SET,Github,Github
   - RULE-SET,Google,Google
   - RULE-SET,Microsoft,Microsoft
