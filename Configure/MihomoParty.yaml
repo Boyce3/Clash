@@ -3,16 +3,16 @@
 
 proxy-groups:
 # 策略分组
-  - {name: Emby, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
-  - {name: Facebook, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Facebook.png }
+  - {name: Emby, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
+  - {name: Facebook, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Facebook.png }
   - {name: Github, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/github.png }
-  - {name: Google, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Google.png }
-  - {name: Microsoft,  type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Microsoft.png }
+  - {name: Google, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Google.png }
+  - {name: Microsoft,  type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Microsoft.png }
   - {name: OpenAi,  type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/OpenAI.png }
-  - {name: Telegram, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Telegram.png }
-  - {name: Twitter, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Twitter.png }
-  - {name: Youtube, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/YouTube.png }
-  - {name: Final, type: select, proxies:  [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Final.png }
+  - {name: Telegram, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Telegram.png }
+  - {name: Twitter, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Twitter.png }
+  - {name: Youtube, type: select, proxies: [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/YouTube.png }
+  - {name: Final, type: select, proxies:  [美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Final.png }
   
 # 节点分组
   - {name: 美国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "美|US|(?i)States|American", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
