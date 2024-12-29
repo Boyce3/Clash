@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2024-12-16
+# UPDATED: 2024-12-29
 payload:
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN-SUFFIX,jmsuper.com
@@ -40,3 +40,4 @@ payload:
   - DOMAIN-SUFFIX,nebula-media.org
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN,tdck.fun
+  - DOMAIN,abc.auroramedia.vip
