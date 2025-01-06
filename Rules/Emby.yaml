@@ -1,12 +1,13 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2024-12-31
+# UPDATED: 2025-01-06
 payload:
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN-SUFFIX,jmsuper.com
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
   - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN,gd.9521732.xyz
   - DOMAIN,pilipili.club
   - DOMAIN,pilipili.misakaf.org
   - DOMAIN,film.hovervan.org
