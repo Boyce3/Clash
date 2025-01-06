@@ -10,25 +10,21 @@ payload:
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,pilipili.club
   - DOMAIN,pilipili.misakaf.org
-  - DOMAIN,film.hovervan.org
   - DOMAIN,emby.bangumi.ca
-  - DOMAIN,789.123456.al
-  - DOMAIN,free.emby.eu.org
   - DOMAIN,cf.imetyou.top
-  - DOMAIN,emby.apopcloud.live
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN,yhemby.top
   - DOMAIN,play.charontv.com
-  - DOMAIN,emby.awatv.de
   - DOMAIN-SUFFIX,lilyya.xyz
   - DOMAIN-SUFFIX,alphatvapp.top
   - DOMAIN-SUFFIX,sfcj.org
-  - DOMAIN,jsq.mooguu.xyz
-  - DOMAIN-SUFFIX,aliz.work
+  - DOMAIN,us.nanflix.net
   - DOMAIN,581658.best
   - DOMAIN-SUFFIX,7777777.buzz
-  - IP-CIDR,5.45.109.91/32
-  - DOMAIN,us.nanflix.net
+  - DOMAIN-SUFFIX,awatv.de
+  - DOMAIN,movice.emby.blog
+  - DOMAIN,jsq.mooguu.xyz
+  - DOMAIN-SUFFIX,aliz.work
   - DOMAIN-SUFFIX,1024.name
   - DOMAIN-SUFFIX,mcjoker.xyz
   - DOMAIN-SUFFIX,viclub.top
@@ -39,6 +35,7 @@ payload:
   - DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
   - DOMAIN,eggtartemby.itsmyduty.top
   - DOMAIN-SUFFIX,nebula-media.org
-  - DOMAIN-SUFFIX,tanhuatv.site
-  - DOMAIN,tdck.fun
   - DOMAIN,abc.auroramedia.vip
+  - DOMAIN,iempy.vime50.com
+  - DOMAIN-SUFFIX,tanhuatv.site
+  
