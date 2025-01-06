@@ -38,4 +38,7 @@ payload:
   - DOMAIN,abc.auroramedia.vip
   - DOMAIN,iempy.vime50.com
   - DOMAIN-SUFFIX,tanhuatv.site
+  - IP-CIDR,192.99.35.111/32
+  - DOMAIN,tdck.fun
+  - DOMAIN-KEYWORD,pppp.us.kg
   
