@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-01-06
+# UPDATED: 2025-01-07
 payload:
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN-SUFFIX,jmsuper.com
@@ -21,8 +21,6 @@ payload:
   - DOMAIN,us.nanflix.net
   - DOMAIN,581658.best
   - DOMAIN-SUFFIX,7777777.buzz
-  - DOMAIN-SUFFIX,awatv.de
-  - DOMAIN,movice.emby.blog
   - DOMAIN,jsq.mooguu.xyz
   - DOMAIN-SUFFIX,aliz.work
   - DOMAIN-SUFFIX,1024.name
