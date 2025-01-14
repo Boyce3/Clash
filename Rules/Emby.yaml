@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-01-12
+# UPDATED: 2025-01-14
 payload:
   - DOMAIN-SUFFIX,lyrebirdemby.com
   - DOMAIN-SUFFIX,jmsuper.com
@@ -37,7 +37,5 @@ payload:
   - DOMAIN,abc.auroramedia.vip
   - DOMAIN,iempy.vime50.com
   - DOMAIN-SUFFIX,tanhuatv.site
-  - IP-CIDR,192.99.35.111/32
-  - DOMAIN,tdck.fun
-  - DOMAIN-KEYWORD,pppp.us.kg
+  - DOMAIN-SUFFIX,vfing.de
   
