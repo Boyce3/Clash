@@ -3,8 +3,8 @@
 
 proxy-groups:
 # 策略分组
-  - {name: GLOBAL, type: select, include-all: true, filter: "^(?!.*(流量|到期|剩余|过期|expire|traffic)).*$", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rocket.png }
   - {name: Emby, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
+  - {name: GLOBAL, type: select, include-all: true, filter: "^(?!.*(流量|到期|剩余|过期|expire|traffic)).*$", icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rocket.png }
   - {name: Facebook, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Facebook.png }
   - {name: Github, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/github.png }
   - {name: Google, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Google.png }
