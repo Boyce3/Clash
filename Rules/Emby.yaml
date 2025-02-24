@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-2-14
+# UPDATED: 2025-2-24
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -18,12 +18,14 @@ payload:
 # 纸片人小站
   - DOMAIN,embyplus.org
   - DOMAIN,emby4.029902.xyz
+  - DOMAIN,gd.9521732.xyz
 # PiliPili
-  - DOMAIN,pilipili.club
-  - DOMAIN,streamer.pilipiliultra.com
+  - DOMAIN,emby-direct.pilipiliultra.com
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,streamer-cf.pilipiliultra.com
 # 二刺螈
   - DOMAIN,media.nijigem.by
-# nyamedia
+# Nyamedia
   - DOMAIN,emby.bangumi.ca
 # 电报服
   - DOMAIN,cf.imetyou.top
@@ -52,12 +54,19 @@ payload:
   - DOMAIN,cf.sfcj.org
 # NanflixUSA
   - DOMAIN,us.nanflix.net
+# 极光
+  - DOMAIN,ad.auroramedia.vip
+# 惊蛰
+  - DOMAIN,stream2.jingzhe.pro
+  - DOMAIN,emby.jingzhe.pro
 # 飞跃彩虹
   - IP-CIDR,193.122.114.13/32
   - DOMAIN,7777777.buzz
   - DOMAIN,581658.best
 # 比比
   - DOMAIN,beebi.org
+# 星云
+  - DOMAIN,emby.nebula-media.org
 # 见手青
   - DOMAIN,jsq.mooguu.xyz
 # HKA
@@ -77,31 +86,5 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
-# StarCat
-  - DOMAIN,flare.catlinks.co.uk
-  - DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
-# 星云
-  - DOMAIN,emby.nebula-media.org
-# 极光
-  - DOMAIN,auroramedia.vip
-# 起点站
-  - DOMAIN,favoritewife.com
-  - DOMAIN,qdz-de.vfing.de
-  - DOMAIN,qdz-hk-0.vfing.de
-  - DOMAIN,qdz-hk-1.vfing.de
-# July
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN,alist7.eu.org
-  - DOMAIN,july.vfing.de
-  - DOMAIN,july-hk.vfing.de
-  - DOMAIN,july-sg.vfing.de
-  - DOMAIN,july-us.vfing.de
-# 墨云阁
-  - DOMAIN-SUFFIX,mobaiemby.site
-  - DOMAIN,fast.vfing.de
-  - DOMAIN,emby-myg-de.vfing.de
-# 惊蛰
-  - DOMAIN,stream2.jingzhe.pro
-  - DOMAIN,emby.jingzhe.pro
