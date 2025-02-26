@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-2-24
+# UPDATED: 2025-2-26
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -73,7 +73,9 @@ payload:
   - DOMAIN-SUFFIX,aliz.work
 # 西瓜
   - DOMAIN,1024.name
-  - DOMAIN,spare.1024.name
+  - DOMAIN,seoul.1024.name
+  - DOMAIN,jc.1024.name
+  - DOMAIN,daigua.j8.work
 # 叔服
   - DOMAIN,emby3.mcjoker.xyz
 # 大V影院
