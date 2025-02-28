@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-2-26
+# UPDATED: 2025-2-28
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -59,6 +59,8 @@ payload:
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro
+# Doubon
+  - DOMAIN,onatoshi.114514.quest
 # 飞跃彩虹
   - IP-CIDR,193.122.114.13/32
   - DOMAIN,7777777.buzz
