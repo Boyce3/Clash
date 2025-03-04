@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-2-28
+# UPDATED: 2025-03-04
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -29,14 +29,6 @@ payload:
   - DOMAIN,emby.bangumi.ca
 # 电报服
   - DOMAIN,cf.imetyou.top
-# 牢大
-  - DOMAIN,emby-mica-us-v1.mius.uk
-  - DOMAIN,emby-micax-ca-v2.mius.uk
-  - DOMAIN,emby-mica-hk-v4.mius.uk
-  - DOMAIN,emby-mica-yxvm-hk-v4.mius.uk
-  - DOMAIN,emby-mica-hk3-v4.mius.uk
-# 飞跃银河
-  - DOMAIN,yhemby.top
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
@@ -67,8 +59,6 @@ payload:
   - DOMAIN,581658.best
 # 比比
   - DOMAIN,beebi.org
-# 星云
-  - DOMAIN,emby.nebula-media.org
 # 见手青
   - DOMAIN,jsq.mooguu.xyz
 # HKA
