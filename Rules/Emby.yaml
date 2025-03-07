@@ -1,11 +1,32 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-03-04
+# UPDATED: 2025-03-07
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,inside.lyrebirdemby.com
   - IP-CIDR,188.172.228.65/32
+# 卡戎
+  - DOMAIN,play.charontv.com
+# 莉莉服
+  - DOMAIN,cfemby.lilyya.xyz
+  - DOMAIN,c.lilyemby.my
+  - DOMAIN,u.lilyemby.my
+  - DOMAIN,jp.lilyemby.my
+# NanflixUSA
+  - DOMAIN,us.nanflix.net
+# 非越
+  - DOMAIN,z.sfcj.org
+  - DOMAIN,jg.sfcj.org
+  - DOMAIN,ju.sfcj.org
+  - DOMAIN,jg6.sfcj.org
+  - DOMAIN,v6.sfcj.org
+  - DOMAIN,cf.sfcj.org
+# 极光
+  - DOMAIN,ad.auroramedia.vip
+# 惊蛰
+  - DOMAIN,stream2.jingzhe.pro
+  - DOMAIN,emby.jingzhe.pro  
 # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
 # 终点站
@@ -23,34 +44,12 @@ payload:
   - DOMAIN,emby-direct.pilipiliultra.com
   - DOMAIN,emby.pilipiliultra.com
   - DOMAIN,streamer-cf.pilipiliultra.com
-# 二刺螈
+# 二次元
   - DOMAIN,media.nijigem.by
 # Nyamedia
   - DOMAIN,emby.bangumi.ca
 # 电报服
   - DOMAIN,cf.imetyou.top
-# 卡戎
-  - DOMAIN,play.charontv.com
-# 莉莉服
-  - DOMAIN,cfemby.lilyya.xyz
-  - DOMAIN,cemby.lilyya.xyz
-  - DOMAIN,usemby.lilyya.xyz
-# AlphaTV
-  - DOMAIN-SUFFIX,alphatvapp.top
-# 非越
-  - DOMAIN,z.sfcj.org
-  - DOMAIN,jg.sfcj.org
-  - DOMAIN,ju.sfcj.org
-  - DOMAIN,jg6.sfcj.org
-  - DOMAIN,v6.sfcj.org
-  - DOMAIN,cf.sfcj.org
-# NanflixUSA
-  - DOMAIN,us.nanflix.net
-# 极光
-  - DOMAIN,ad.auroramedia.vip
-# 惊蛰
-  - DOMAIN,stream2.jingzhe.pro
-  - DOMAIN,emby.jingzhe.pro
 # Doubon
   - DOMAIN,onatoshi.114514.quest
 # 飞跃彩虹
@@ -82,3 +81,7 @@ payload:
   - DOMAIN,dl.carryz.net
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
+# AlphaTV
+  - DOMAIN-SUFFIX,alphatvapp.top
+# 星云
+  - DOMAIN,emby.nebula-media.org
