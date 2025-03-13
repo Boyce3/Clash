@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-03-07
+# UPDATED: 2025-03-13
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -58,8 +58,6 @@ payload:
   - DOMAIN,581658.best
 # 比比
   - DOMAIN,beebi.org
-# 见手青
-  - DOMAIN,jsq.mooguu.xyz
 # HKA
   - DOMAIN-SUFFIX,aliz.work
 # 西瓜
