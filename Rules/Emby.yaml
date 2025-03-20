@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-03-18
+# UPDATED: 2025-03-20
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -58,8 +58,6 @@ payload:
   - IP-CIDR,193.122.114.13/32
   - DOMAIN,7777777.buzz
   - DOMAIN,581658.best
-# 比比
-  - DOMAIN,beebi.org
 # 西瓜
   - DOMAIN,1024.name
   - DOMAIN,seoul.1024.name
