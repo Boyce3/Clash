@@ -82,5 +82,3 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
 # AlphaTV
   - DOMAIN-SUFFIX,alphatvapp.top
-# 星云
-  - DOMAIN,emby.nebula-media.org
