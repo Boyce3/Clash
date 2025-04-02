@@ -1,13 +1,13 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-03-25
+# UPDATED: 2025-04-02
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,inside.lyrebirdemby.com
   - IP-CIDR,188.172.228.65/32
 # Plumber
-  - DOMAIN,xjp1.nezhasu.com
+  - DOMAIN,plumber.nezhasu.com
   - DOMAIN,shouer.910427.xyz
 # 卡戎
   - DOMAIN,play.charontv.com
