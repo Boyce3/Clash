@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-02
+# UPDATED: 2025-04-07
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -9,6 +9,8 @@ payload:
 # Plumber
   - DOMAIN,plumber.nezhasu.com
   - DOMAIN,shouer.910427.xyz
+# Saturday
+  - DOMAIN,lite.saturday.video
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
@@ -80,5 +82,3 @@ payload:
   - DOMAIN,dl.carryz.net
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
-# AlphaTV
-  - DOMAIN-SUFFIX,alphatvapp.top
