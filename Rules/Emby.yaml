@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-07
+# UPDATED: 2025-04-08
 payload:
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
@@ -60,8 +60,8 @@ payload:
 # HKA
   - DOMAIN,hka-emby3.aliz.work
 # 飞跃彩虹
-  - IP-CIDR,193.122.114.13/32
   - DOMAIN,7777777.buzz
+  - IP-CIDR,193.122.114.13/32
   - DOMAIN,581658.best
 # 西瓜
   - DOMAIN,1024.name
