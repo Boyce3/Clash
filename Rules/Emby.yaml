@@ -2,7 +2,7 @@
 # AUTHOR: Boyce3
 # UPDATED: 2025-04-15
 payload:
-# 售后网络
+# 守候网络
   - DOMAIN,DOMAIN,emby.cn2gias.uk
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
