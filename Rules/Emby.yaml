@@ -2,6 +2,8 @@
 # AUTHOR: Boyce3
 # UPDATED: 2025-04-08
 payload:
+# 售后网络
+  - DOMAIN,DOMAIN,emby.cn2gias.uk
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,inside.lyrebirdemby.com
@@ -84,3 +86,5 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
 # 起点站
   - DOMAIN,free.28.al
+# Kiku
+  - DOMAIN,emby.ucloudhost.top
