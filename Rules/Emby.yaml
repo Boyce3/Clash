@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-15
+# UPDATED: 2025-04-16
 payload:
 # 守候网络
   - DOMAIN,DOMAIN,emby.cn2gias.uk
@@ -13,6 +13,13 @@ payload:
   - DOMAIN,shouer.910427.xyz
 # Saturday
   - DOMAIN,lite.saturday.video
+# 西瓜
+  - DOMAIN,1024.name
+  - DMOAIN,cf.1024.one
+  - DOMAIN,seoul.1024.name
+  - DOMAIN,sjc.1024.name
+  - DOMAIN,daigua.j8.work
+  - DOMAIN,mzlpin.1024.one
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
@@ -65,11 +72,6 @@ payload:
   - DOMAIN,7777777.buzz
   - IP-CIDR,193.122.114.13/32
   - DOMAIN,581658.best
-# 西瓜
-  - DOMAIN,1024.name
-  - DOMAIN,seoul.1024.name
-  - DOMAIN,jc.1024.name
-  - DOMAIN,daigua.j8.work
 # 叔服
   - DOMAIN,emby3.mcjoker.xyz
 # 大V影院
