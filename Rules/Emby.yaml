@@ -3,7 +3,7 @@
 # UPDATED: 2025-04-21
 payload:
 # 守候网络
-  - DOMAIN,DOMAIN,emby.cn2gias.uk
+  - DOMAIN,emby.cn2gias.uk
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,inside.lyrebirdemby.com
