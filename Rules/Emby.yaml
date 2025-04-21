@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-16
+# UPDATED: 2025-04-21
 payload:
 # 守候网络
   - DOMAIN,DOMAIN,emby.cn2gias.uk
@@ -23,10 +23,10 @@ payload:
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
-  - DOMAIN,cfemby.lilyya.xyz
-  - DOMAIN,c.lilyemby.my
-  - DOMAIN,u.lilyemby.my
-  - DOMAIN,jp.lilyemby.my
+ - DOMAIN,cf.lilyemby.my
+ - DOMAIN,hk.lilyemby.my
+ - DOMAIN,jp.lilyemby.my
+ - DOMAIN,cdn.lilyemby.my
 # NanflixUSA
   - DOMAIN,us.nanflix.net
 # 非越
