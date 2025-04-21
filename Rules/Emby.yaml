@@ -27,13 +27,10 @@ payload:
   - DOMAIN,hk.lilyemby.my
   - DOMAIN,jp.lilyemby.my
   - DOMAIN,cdn.lilyemby.my
-# NanflixUSA
+# 天南
   - DOMAIN,us.nanflix.net
 # 非越
   - DOMAIN,z.sfcj.org
-  - DOMAIN,jg.sfcj.org
-  - DOMAIN,ju.sfcj.org
-  - DOMAIN,jg6.sfcj.org
   - DOMAIN,v6.sfcj.org
   - DOMAIN,cf.sfcj.org
 # 极光
@@ -77,9 +74,10 @@ payload:
 # 大V影院
   - DOMAIN,su.viclub.top
   - DOMAIN,sj.viclub.top
-  - DOMAIN,vi-jp.pppp.us.kg
-  - DOMAIN,vi-hk.pppp.us.kg
-  - DOMAIN,vi-sg.pppp.us.kg
+  - DOMAIN,vi-hk-1.vfing.de
+  - DOMAIN,vi-hk-2.vfing.de
+  - DOMAIN,vi-sg.vfing.de
+  - DOMAIN,vi-jp.vfing.de
 # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
@@ -88,5 +86,8 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
 # 起点站
   - DOMAIN,free.28.al
+  - DOMAIN,qdzfreecdn.b-cdn.net
 # Kiku
   - DOMAIN,emby.ucloudhost.top
+# 叶子
+  - DOMAIN,gm.yezi.my
