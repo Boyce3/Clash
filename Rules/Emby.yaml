@@ -23,10 +23,10 @@ payload:
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
- - DOMAIN,cf.lilyemby.my
- - DOMAIN,hk.lilyemby.my
- - DOMAIN,jp.lilyemby.my
- - DOMAIN,cdn.lilyemby.my
+  - DOMAIN,cf.lilyemby.my
+  - DOMAIN,hk.lilyemby.my
+  - DOMAIN,jp.lilyemby.my
+  - DOMAIN,cdn.lilyemby.my
 # NanflixUSA
   - DOMAIN,us.nanflix.net
 # 非越
