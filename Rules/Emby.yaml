@@ -1,9 +1,36 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-23
+# UPDATED: 2025-04-24
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
+
+# 终点站
+  - DOMAIN,pub1.emby.wtf
+  - DOMAIN,pub1.term.wtf
+  - DOMAIN,pub2.emby.wtf
+  - DOMAIN,pub2.term.wtf
+  - DOMAIN,pub3.emby.wtf
+  - DOMAIN,pub3.term.wtf
+# 卷毛鼠
+  - DOMAIN-SUFFIX,jmsuper.com
+# 纸片人小站
+  - DOMAIN,embyplus.org
+  - DOMAIN,emby4.029902.xyz
+  - DOMAIN,gd.9521732.xyz
+  - DOMAIN,stream.embyplus.org
+# PiliPili
+  - DOMAIN,emby-direct.pilipiliultra.com
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,streamer-cf.pilipiliultra.com
+# 二次元
+  - DOMAIN,media.nijigem.by
+# Nyamedia
+  - DOMAIN,emby.bangumi.ca
+# Doubon
+  - DOMAIN,onatoshi.114514.quest
+# 电报服
+  - DOMAIN,cf.imetyou.top
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,inside.lyrebirdemby.com
@@ -22,13 +49,13 @@ payload:
   - DOMAIN,mzlpin.1024.one
 # 卡戎
   - DOMAIN,play.charontv.com
+# 天南
+  - DOMAIN,us.nanflix.net
 # 莉莉服
   - DOMAIN,cf.lilyemby.my
   - DOMAIN,hk.lilyemby.my
   - DOMAIN,jp.lilyemby.my
   - DOMAIN,cdn.lilyemby.my
-# 天南
-  - DOMAIN,us.nanflix.net
 # 非越
   - DOMAIN,z.sfcj.org
   - DOMAIN,v6.sfcj.org
@@ -38,42 +65,14 @@ payload:
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro  
-# 卷毛鼠
-  - DOMAIN-SUFFIX,jmsuper.com
-# 终点站
-  - DOMAIN,pub1.emby.wtf
-  - DOMAIN,pub1.term.wtf
-  - DOMAIN,pub2.emby.wtf
-  - DOMAIN,pub2.term.wtf
-  - DOMAIN,pub3.emby.wtf
-  - DOMAIN,pub3.term.wtf
-# 纸片人小站
-  - DOMAIN,embyplus.org
-  - DOMAIN,emby4.029902.xyz
-  - DOMAIN,gd.9521732.xyz
-  - DOMAIN,stream.embyplus.org
-# PiliPili
-  - DOMAIN,emby-direct.pilipiliultra.com
-  - DOMAIN,emby.pilipiliultra.com
-  - DOMAIN,streamer-cf.pilipiliultra.com
-# 二次元
-  - DOMAIN,media.nijigem.by
-# Nyamedia
-  - DOMAIN,emby.bangumi.ca
-# 电报服
-  - DOMAIN,cf.imetyou.top
-# Doubon
-  - DOMAIN,onatoshi.114514.quest
-# HKA
-  - DOMAIN,hka-emby3.aliz.work
 # Kiku
   - DOMAIN,emby.ucloudhost.top
+# HKA
+  - DOMAIN,hka-emby3.aliz.work
 # 飞跃彩虹
   - DOMAIN,7777777.buzz
   - IP-CIDR,193.122.114.13/32
   - DOMAIN,581658.best
-# 叔服
-  - DOMAIN,emby3.mcjoker.xyz
 # 大V影院
   - DOMAIN,su.viclub.top
   - DOMAIN,sj.viclub.top
@@ -81,6 +80,8 @@ payload:
   - DOMAIN,vi-hk-2.vfing.de
   - DOMAIN,vi-sg.vfing.de
   - DOMAIN,vi-jp.vfing.de
+# 叔服
+  - DOMAIN,emby3.mcjoker.xyz
 # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
