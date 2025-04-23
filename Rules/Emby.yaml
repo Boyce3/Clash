@@ -4,7 +4,6 @@
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
-
 # 终点站
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub1.term.wtf
