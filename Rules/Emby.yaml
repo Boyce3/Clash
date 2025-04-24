@@ -21,6 +21,10 @@ payload:
 # PiliPili
   - DOMAIN,emby-direct.pilipiliultra.com
   - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,pili.994959.xyz
+  - DOMAIN,caddy.pilipili.me
+  - DOMAIN,vn.pili.im
+  - DOMAIN,manga.pilipiliultra.com
   - DOMAIN,streamer-cf.pilipiliultra.com
 # 二次元
   - DOMAIN,media.nijigem.by
