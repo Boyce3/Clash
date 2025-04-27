@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-24
+# UPDATED: 2025-04-27
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -89,10 +89,10 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
-# Levilde
-  - DOMAIN,eggtartemby.itsmyduty.top
 # 起点站
   - DOMAIN,free.28.al
   - DOMAIN,qdzfreecdn.b-cdn.net
+# Levilde
+  - DOMAIN,eggtartemby.itsmyduty.top
 # 叶子
   - DOMAIN,gm.yezi.my
