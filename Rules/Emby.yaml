@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-27
+# UPDATED: 2025-04-29
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -42,7 +42,7 @@ payload:
   - DOMAIN,plumber.nezhasu.com
   - DOMAIN,shouer.910427.xyz
 # Saturday
-  - DOMAIN,lite.saturday.video
+  - DOMAIN,lite.saturdayvideo.top
 # 西瓜
   - DOMAIN,1024.name
   - DMOAIN,cf.1024.one
