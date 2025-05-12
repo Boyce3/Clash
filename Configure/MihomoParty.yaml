@@ -1,5 +1,14 @@
 # MihomoParty配置
 # UPDATED: 2025-05-12
+
+tun:
+  enable: true
+  stack: system
+  dns-hijack:
+    - any:53
+  auto-route: true
+  auto-detect-interface: true
+
 dns:
   enable: true
   prefer-h3: true
