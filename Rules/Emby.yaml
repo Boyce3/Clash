@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-04-29
+# UPDATED: 2025-05-13
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -67,7 +67,12 @@ payload:
   - DOMAIN,ad.auroramedia.vip
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
-  - DOMAIN,emby.jingzhe.pro  
+  - DOMAIN,emby.jingzhe.pro 
+  # 入机
+DOMAIN,embycf.rjemby.com
+  - DOMAIN,hkdg.998903.xyz
+  - DOMAIN,embyhk.rjemby.com
+  - DOMAIN,embylu.rjemby.com
 # Kiku
   - DOMAIN,emby.ucloudhost.top
 # HKA
@@ -92,6 +97,8 @@ payload:
 # 起点站
   - DOMAIN,free.28.al
   - DOMAIN,qdzfreecdn.b-cdn.net
+# 影迹
+  - DOMAIN,emby1.123456789.lol
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
 # 叶子
