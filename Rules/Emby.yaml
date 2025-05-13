@@ -63,13 +63,11 @@ payload:
   - DOMAIN,z.sfcj.org
   - DOMAIN,v6.sfcj.org
   - DOMAIN,cf.sfcj.org
-# 极光
-  - DOMAIN,ad.auroramedia.vip
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro 
   # 入机
-DOMAIN,embycf.rjemby.com
+  - DOMAIN,embycf.rjemby.com
   - DOMAIN,hkdg.998903.xyz
   - DOMAIN,embyhk.rjemby.com
   - DOMAIN,embylu.rjemby.com
