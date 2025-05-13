@@ -28,6 +28,10 @@ payload:
   - DOMAIN,streamer-cf.pilipiliultra.com
 # 二次元
   - DOMAIN,media.nijigem.by
+  - DOMAIN,default.cdn.bgp.yt
+  - DOMAIN,ct.cdn.bgp.yt
+  - DOMAIN,us-w.cdn.bgp.yt
+  - DOMAIN,cu.cdn.bgp.yt
 # Nyamedia
   - DOMAIN,emby.bangumi.ca
 # Doubon
@@ -61,7 +65,6 @@ payload:
   - DOMAIN,cdn.lilyemby.my
 # 非越
   - DOMAIN,z.sfcj.org
-  - DOMAIN,v6.sfcj.org
   - DOMAIN,cf.sfcj.org
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
@@ -70,7 +73,6 @@ payload:
   - DOMAIN,embycf.rjemby.com
   - DOMAIN,hkdg.998903.xyz
   - DOMAIN,embyhk.rjemby.com
-  - DOMAIN,embylu.rjemby.com
 # Kiku
   - DOMAIN,emby.ucloudhost.top
 # HKA
@@ -81,11 +83,9 @@ payload:
   - DOMAIN,581658.best
 # 大V影院
   - DOMAIN,su.viclub.top
-  - DOMAIN,sj.viclub.top
   - DOMAIN,vi-hk-1.vfing.de
   - DOMAIN,vi-hk-2.vfing.de
   - DOMAIN,vi-sg.vfing.de
-  - DOMAIN,vi-jp.vfing.de
 # 叔服
   - DOMAIN,emby3.mcjoker.xyz
 # CC
