@@ -54,4 +54,5 @@ rules:
   - RULE-SET,Direct,DIRECT
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
+  - GEOSITE,CN,DIRECT
   - MATCH,Final
