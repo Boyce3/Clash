@@ -55,5 +55,4 @@ rules:
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - GEOSITE,CN,DIRECT
-  - GeoLite2-ASN,CN,DIRECT
   - MATCH,Final
