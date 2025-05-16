@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-05-13
+# UPDATED: 2025-05-16
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -75,6 +75,8 @@ payload:
   - DOMAIN,embyhk.rjemby.com
 # Kiku
   - DOMAIN,emby.ucloudhost.top
+# Maoyan
+  - DOMAIN,frre.me
 # HKA
   - DOMAIN,hka-emby3.aliz.work
 # 飞跃彩虹
@@ -101,5 +103,4 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
 # 叶子
   - DOMAIN,gm.yezi.my
-# Maoyan
-  - DOMAIN,frre.me
+
