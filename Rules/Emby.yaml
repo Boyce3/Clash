@@ -49,7 +49,7 @@ payload:
   - DOMAIN,lite.saturdayvideo.top
 # 西瓜
   - DOMAIN,1024.name
-  - DMOAIN,cf.1024.one
+  - DOMAIN,cf.1024.one
   - DOMAIN,seoul.1024.name
   - DOMAIN,sjc.1024.name
   - DOMAIN,daigua.j8.work
@@ -69,7 +69,7 @@ payload:
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro 
-  # 入机
+# 入机
   - DOMAIN,embycf.rjemby.com
   - DOMAIN,hkdg.998903.xyz
   - DOMAIN,embyhk.rjemby.com
