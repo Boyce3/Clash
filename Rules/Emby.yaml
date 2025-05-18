@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-05-16
+# UPDATED: 2025-05-18
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -70,9 +70,9 @@ payload:
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro 
 # 入机
-  - DOMAIN,embycf.rjemby.com
-  - DOMAIN,hkdg.998903.xyz
-  - DOMAIN,embyhk.rjemby.com
+  - DOMAIN,rjcf.rjf37.com
+  - DOMAIN,rjhkgcp.rjf37.com
+  - DOMAIN,rjhk.rjf37.com
 # Kiku
   - DOMAIN,emby.ucloudhost.top
 # Maoyan
