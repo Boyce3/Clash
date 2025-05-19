@@ -54,6 +54,7 @@ payload:
   - DOMAIN,sjc.1024.name
   - DOMAIN,daigua.j8.work
   - DOMAIN,mzlpin.1024.one
+  - DOMAIN,wm.atto.moe
 # 卡戎
   - DOMAIN,play.charontv.com
 # 天南
@@ -77,6 +78,7 @@ payload:
   - DOMAIN,emby.ucloudhost.top
 # Maoyan
   - DOMAIN,frre.me
+  - DOMAIN,cat-eye.top
 # HKA
   - DOMAIN,hka-emby3.aliz.work
 # 飞跃彩虹
