@@ -48,13 +48,7 @@ payload:
 # Saturday
   - DOMAIN,lite.saturdayvideo.top
 # 西瓜
-  - DOMAIN,1024.name
-  - DOMAIN,cf.1024.one
-  - DOMAIN,seoul.1024.name
-  - DOMAIN,sjc.1024.name
-  - DOMAIN,daigua.j8.work
-  - DOMAIN,mzlpin.1024.one
-  - DOMAIN,wm.atto.moe
+  - DOMAIN-SUFFIX,chilledmelon.com
 # 卡戎
   - DOMAIN,play.charontv.com
 # 天南
