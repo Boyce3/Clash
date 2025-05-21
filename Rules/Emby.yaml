@@ -51,8 +51,6 @@ payload:
   - DOMAIN-SUFFIX,chilledmelon.com
 # 卡戎
   - DOMAIN,play.charontv.com
-# 天南
-  - DOMAIN,us.nanflix.net
 # 莉莉服
   - DOMAIN,cf.lilyemby.my
   - DOMAIN,hk.lilyemby.my
