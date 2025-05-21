@@ -66,6 +66,10 @@ payload:
   - DOMAIN,rjcf.rjf37.com
   - DOMAIN,rjhkgcp.rjf37.com
   - DOMAIN,rjhk.rjf37.com
+# 肥牛
+  - DOMAIN,emby2.feiniu.lol
+  - DOMAIN,emby3.feiniu.lol
+  - DOMAIN,emby4.feiniu.lol
 # Kiku
   - DOMAIN,emby.ucloudhost.top
 # Maoyan
@@ -96,10 +100,6 @@ payload:
   - DOMAIN,emby2.9900990.buzz
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
-# 肥牛
-  - DOMAIN,emby2.feiniu.lol
-  - DOMAIN,emby3.feiniu.lol
-  - DOMAIN,emby4.feiniu.lol
 # 叶子
   - DOMAIN,gm.yezi.my
 
