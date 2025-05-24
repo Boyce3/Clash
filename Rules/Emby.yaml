@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-05-21
+# UPDATED: 2025-05-24
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -67,6 +67,7 @@ payload:
   - DOMAIN,rjhkgcp.rjf37.com
   - DOMAIN,rjhk.rjf37.com
 # 肥牛
+  - DOMAIN,emby.feiniu.lol
   - DOMAIN,emby2.feiniu.lol
   - DOMAIN,emby3.feiniu.lol
   - DOMAIN,emby4.feiniu.lol
