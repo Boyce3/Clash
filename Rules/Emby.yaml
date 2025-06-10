@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-05-24
+# UPDATED: 2025-06-10
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -79,9 +79,7 @@ payload:
 # HKA
   - DOMAIN,hka-emby3.aliz.work
 # 飞跃彩虹
-  - IP-CIDR,193.122.114.13/32
-  - DOMAIN,7777777.buzz
-  - DOMAIN,581658.best
+  - DOMAIN,yhemby.top
 # 大V影院
   - DOMAIN,su.viclub.top
   - DOMAIN,vi-hk-1.vfing.de
