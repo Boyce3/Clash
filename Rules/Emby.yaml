@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-06-23
+# UPDATED: 2025-07-07
 payload:
 # 守候网络
   - DOMAIN,emby.cn2gias.uk
@@ -44,8 +44,6 @@ payload:
   - IP-CIDR,188.172.228.65/32
 # Saturday
   - DOMAIN,lite.saturdayvideo.top
-# 西瓜
-  - DOMAIN-SUFFIX,chilledmelon.com
 # 卡戎
   - DOMAIN,play.charontv.com
 # 莉莉服
@@ -76,7 +74,7 @@ payload:
   - DOMAIN,plumber.nezhasu.com
   - DOMAIN,shouer.910427.xyz
 # 飞跃彩虹
-  - DOMAIN,yhemby.top
+  - DOMAIN,ch.feiyue.lol
 # 大V影院
   - DOMAIN,su.viclub.top
   - DOMAIN,vi-hk-1.vfing.de
@@ -96,6 +94,8 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
 
 # ----------以下随缘更新----------
+# 西瓜
+  - DOMAIN-SUFFIX,chilledmelon.com
 # 叶子
   - DOMAIN,gm.yezi.my
 # 无界云
