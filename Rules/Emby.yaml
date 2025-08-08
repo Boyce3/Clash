@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-07-26
+# UPDATED: 2025-08-08
 payload:
 # KiKi
   - DOMAIN,ttkx8888.iepose.cn
@@ -66,11 +66,6 @@ payload:
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro
-# 入机
-  - DOMAIN,rjcf.rjf37.com
-  - DOMAIN,rjcf.xytx.org
-  - DOMAIN,rjhl.xytx.org
-  - DOMAIN,rjhk.rjf37.com
 # Kiku
   - DOMAIN,emby1.ucloudhost.top
   - DOMAIN,emby2.ucloudhost.top
@@ -93,8 +88,6 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
-# 起点站
-  - DOMAIN,free.28.al
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
   
