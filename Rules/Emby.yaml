@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-08-08
+# UPDATED: 2025-08-11
 payload:
 # KiKi
   - DOMAIN,ttkx8888.iepose.cn
@@ -71,9 +71,6 @@ payload:
   - DOMAIN,emby2.ucloudhost.top
 # HKA
   - DOMAIN,hka-emby.aliz.work
-# Plumber
-  - DOMAIN,plumber.nezhasu.com
-  - DOMAIN,shouer.910427.xyz
 # 飞跃彩虹
   - DOMAIN,ch.feiyue.lol
 # 大V影院
