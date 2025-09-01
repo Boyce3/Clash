@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-08-11
+# UPDATED: 2025-09-01
 payload:
 # KiKi
   - DOMAIN,ttkx8888.iepose.cn
@@ -61,8 +61,8 @@ payload:
   - DOMAIN,jp.lilyemby.my
   - DOMAIN,by.lilyemby.my
 # 非越
-  - DOMAIN,z.sfcj.org
   - DOMAIN,cf.sfcj.org
+  - DOMAIN,cdn.sfcj.org
 # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro
