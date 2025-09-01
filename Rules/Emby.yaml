@@ -53,8 +53,6 @@ payload:
   - DOMAIN,us.nanflix.net
 # Saturday
   - DOMAIN,lite.saturdayvideo.top
-# 卡戎
-  - DOMAIN,play.charontv.com
 # 莉莉服
   - DOMAIN,cf.lilyemby.my
   - DOMAIN,cdn.lilyemby.my
