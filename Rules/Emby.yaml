@@ -1,16 +1,15 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-09-01
+# UPDATED: 2025-09-14
 payload:
 # KiKi
   - DOMAIN,ttkx8888.iepose.cn
   - DOMAIN,emby.kiki888.fun
-# 守候网络
+# 守候影院_机场服
   - DOMAIN,emby.cn2gias.uk
   - DOMAIN,emby01.cn2gias.uk
 # 守候公益
   - DOMAIN,lite.cn2gias.uk
-  - DOMAIN,lite-v6.cn2gias.uk
 # 终点站
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub1.term.wtf
@@ -47,8 +46,10 @@ payload:
   - DOMAIN,cf.imetyou.top
 # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
+  - DOMAIN,cdn.2580852.xyz
   - DOMAIN,inside.lyrebirdemby.com
   - IP-CIDR,188.172.228.65/32
+  - DOMAIN,vip1.lyrebirdemby.com
 # Nanflix
   - DOMAIN,us.nanflix.net
 # Saturday
@@ -56,8 +57,12 @@ payload:
 # 莉莉服
   - DOMAIN,cf.lilyemby.my
   - DOMAIN,cdn.lilyemby.my
+  - DOMAIN,o1.lilyemby.my
+  - DOMAIN,o2.lilyemby.my
+  - DOMAIN,o3.lilyemby.my
+  - DOMAIN,o4.lilyemby.my
   - DOMAIN,jp.lilyemby.my
-  - DOMAIN,by.lilyemby.my
+  - DOMAIN,tx.lilyemby.my
 # 非越
   - DOMAIN,cf.sfcj.org
   - DOMAIN,cdn.sfcj.org
@@ -85,9 +90,7 @@ payload:
   - DOMAIN,dl.carryz.net
 # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
-  
 # ----------以下随缘更新---------- #
-
 # 叶子
   - DOMAIN,gm.yezi.my
 # 无界云
