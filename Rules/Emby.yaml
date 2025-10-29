@@ -1,30 +1,35 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-09-14
+# UPDATED: 2025-10-29
 payload:
-# KiKi
-  - DOMAIN,ttkx8888.iepose.cn
-  - DOMAIN,emby.kiki888.fun
-# 守候影院_机场服
+  # 无敌服
+  - DOMAIN-SUFFIX,kiki888.fun
+
+  # 守候影院_机场服
   - DOMAIN,emby.cn2gias.uk
   - DOMAIN,emby01.cn2gias.uk
-# 守候公益
+
+  # 守候公益
   - DOMAIN,lite.cn2gias.uk
-# 终点站
+
+  # 终点站
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub1.term.wtf
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub2.term.wtf
   - DOMAIN,pub3.emby.wtf
   - DOMAIN,pub3.term.wtf
-# 卷毛鼠
+
+  # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
-# 纸片人小站
+
+  # 纸片人小站
   - DOMAIN,embyplus.org
   - DOMAIN,emby4.029902.xyz
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,stream.embyplus.org
-# PiliPili
+
+  # PiliPili
   - DOMAIN,emby-direct.pilipiliultra.com
   - DOMAIN,emby.pilipiliultra.com
   - DOMAIN,pili.994959.xyz
@@ -32,72 +37,87 @@ payload:
   - DOMAIN,vn.pili.im
   - DOMAIN,manga.pilipiliultra.com
   - DOMAIN,streamer-cf.pilipiliultra.com
-# 二次元
+
+  # 二次元
   - DOMAIN,media.nijigem.by
   - DOMAIN,default.cdn.bgp.yt
   - DOMAIN,ct.cdn.bgp.yt
   - DOMAIN,us-w.cdn.bgp.yt
   - DOMAIN,cu.cdn.bgp.yt
-# Nyamedia
+
+  # Nyamedia
   - DOMAIN,emby.bangumi.ca
-# Doubon
+
+  # Doubon
   - DOMAIN,onatoshi.114514.quest
-# 电报服
+
+  # 电报服
   - DOMAIN,cf.imetyou.top
-# Lyrebird
+
+  # Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,cdn.2580852.xyz
   - DOMAIN,inside.lyrebirdemby.com
   - IP-CIDR,188.172.228.65/32
   - DOMAIN,vip1.lyrebirdemby.com
-# Nanflix
+  - DOMAIN,vip2.lyrebirdemby.com
+
+  # Nanflix
   - DOMAIN,us.nanflix.net
-# Saturday
+
+  # Saturday
   - DOMAIN,lite.saturdayvideo.top
-# 莉莉服
-  - DOMAIN,cf.lilyemby.my
-  - DOMAIN,cdn.lilyemby.my
-  - DOMAIN,o1.lilyemby.my
-  - DOMAIN,o2.lilyemby.my
-  - DOMAIN,o3.lilyemby.my
-  - DOMAIN,o4.lilyemby.my
-  - DOMAIN,jp.lilyemby.my
-  - DOMAIN,tx.lilyemby.my
-# 非越
+
+  # 莉莉服
+  - DOMAIN-SUFFIX,lilyemby.my
+
+  # 非越
   - DOMAIN,cf.sfcj.org
   - DOMAIN,cdn.sfcj.org
-# 惊蛰
+
+  # 惊蛰
   - DOMAIN,stream2.jingzhe.pro
   - DOMAIN,emby.jingzhe.pro
-# Kiku
+
+  # Kiku
   - DOMAIN,emby1.ucloudhost.top
   - DOMAIN,emby2.ucloudhost.top
-# HKA
+
+  # HKA
   - DOMAIN,hka-emby.aliz.work
-# 飞跃彩虹
+
+  # 飞跃彩虹
   - DOMAIN,ch.feiyue.lol
-# 大V影院
+
+  # 大V影院
   - DOMAIN,su.viclub.top
   - DOMAIN,jp.viclub.top
   - DOMAIN,sg.viclub.top
-  - DOMAIN,vi-hk-1.vfing.de
+  - DOMAIN,cf.306699.xyz
   - DOMAIN,vi-hk-2.vfing.de
-# 叔服
+
+  # 叔服
   - DOMAIN,emby3.mcjoker.xyz
-# CC
+
+  # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
-# Levilde
+
+  # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
-# ----------以下随缘更新---------- #
-# 叶子
+
+  # ----------以下随缘更新---------- #
+  # 叶子
   - DOMAIN,gm.yezi.my
-# 无界云
+
+  # 无界云
   - DOMAIN,emby.mjji.de
-# 西瓜
+
+  # 西瓜
   - DOMAIN-SUFFIX,chilledmelon.com
-# 肥牛
+
+  # 肥牛
   - DOMAIN,emby.feiniu.lol
   - DOMAIN,emby2.feiniu.lol
   - DOMAIN,emby3.feiniu.lol
