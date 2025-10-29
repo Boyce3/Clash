@@ -1,11 +1,11 @@
 # MihomoParty配置
-# UPDATED: 2025-05-15
+# UPDATED: 2025-10-29
 
 proxy-groups:
   - {name: Emby, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
-  - {name: GLOBAL, type: select, include-all: true, exclude-filter: "流量|到期|剩余|过期|expire|traffic", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png }
+  - {name: GLOBAL, type: select, include-all: true, exclude-filter: "流量|到期|剩余|过期|expire|traffic",proxies: [DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png }
   - {name: Facebook, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/Facebook.png }
-  - {name: Github, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/github.png }
+  - {name: Github, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Boyce3/Icons/refs/heads/main/Mobile/GitHub.png }
   - {name: Google, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Google.png }
   - {name: Microsoft,  type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Microsoft.png }
   - {name: OpenAi,  type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/OpenAI.png }
@@ -13,14 +13,14 @@ proxy-groups:
   - {name: Twitter, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Twitter.png }
   - {name: Youtube, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/YouTube.png }
   - {name: Final, type: select, proxies:  [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Final.png }
-  
-  - {name: 美国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "美|US|(?i)States|American", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
-  - {name: 德国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "德国|DE|(?i)Germany", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/DE.png }
-  - {name: 日本节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "日|东京|JP|(?i)Japan", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png }
-  - {name: 韩国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "韩|韩国|首尔|KR|(?i)Korea", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png }
-  - {name: 狮城节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "新|坡|SG|(?i)Singapore", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png }
-  - {name: 香港节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "港|HK|(?i)Hong", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png }
-  - {name: 台湾节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "台|湾|TW|(?i)Taiwan", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png } 
+
+  - {name: 美国节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "美|US|(?i)States|American", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
+  - {name: 德国节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "德国|DE|(?i)Germany", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/DE.png }
+  - {name: 日本节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "日|东京|JP|(?i)Japan", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png }
+  - {name: 韩国节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "韩|韩国|首尔|KR|(?i)Korea", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png }
+  - {name: 狮城节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "新|坡|SG|(?i)Singapore", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png }
+  - {name: 香港节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "港|HK|(?i)Hong", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png }
+  - {name: 台湾节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "台|湾|TW|(?i)Taiwan", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png }
 
 rule-providers:
   Emby:       {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/Boyce3/Clash/refs/heads/main/Rules/Emby.yaml ,                                         path: ./ruleset/Emby.yaml        }
@@ -31,7 +31,7 @@ rule-providers:
   OpenAi:     {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml ,                    path: ./ruleset/OpenAi.yaml      }
   Telegram:   {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml ,                path: ./ruleset/Telegram.yaml    }
   Twitter:    {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml ,                  path: ./ruleset/Twitter.yaml     }
-  Youtube:    {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/YouTube/YouTube.yaml ,       path: ./ruleset/Youbube.yaml     }
+  Youtube:    {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/YouTube/YouTube.yaml ,       path: ./ruleset/Youtube.yaml     }
   Direct:     {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.yaml ,                    path: ./ruleset/Direct.yaml      }
   Lan:        {behavior: classical, interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml ,                          path: ./ruleset/Lan.yaml         }
   ChinaIP:    {behavior: ipcidr,    interval: 86400, format: yaml, type: http, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPs/ChinaIPs_IP.yaml ,             path: ./ruleset/ChinaIP.yaml     }
@@ -50,5 +50,4 @@ rules:
   - RULE-SET,Direct,DIRECT
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
-  - GEOSITE,CN,DIRECT
   - MATCH,Final
