@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-10-29
+# UPDATED: 2025-10-30
 payload:
   # 无敌服
   - DOMAIN-SUFFIX,kiki888.fun
@@ -103,6 +103,7 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
+  - DOMAIN,lt1.carryz.net
 
   # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
