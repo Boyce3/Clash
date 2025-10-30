@@ -1,10 +1,8 @@
 # NAME: Emby
 # AUTHOR: Boyce3
 # UPDATED: 2025-10-30
-payload:
-  # 无敌服
-  - DOMAIN-SUFFIX,kiki888.fun,DIRECT
 
+payload:
   # 守候影院_机场服
   - DOMAIN,emby.cn2gias.uk
   - DOMAIN,emby01.cn2gias.uk
