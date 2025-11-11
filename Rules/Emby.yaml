@@ -57,9 +57,6 @@ payload:
   - DOMAIN,cn-2.lyrebirdemby.online
   - IP-CIDR,188.172.228.65/32
 
-  # Nanflix
-  - DOMAIN,us.nanflix.net
-
   # Saturday
   - DOMAIN,lite.saturdayvideo.top
 
