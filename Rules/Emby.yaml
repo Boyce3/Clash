@@ -21,10 +21,8 @@ payload:
   - DOMAIN-SUFFIX,jmsuper.com
 
   # 纸片人小站
-  - DOMAIN,embyplus.org
-  - DOMAIN,emby4.029902.xyz
+  - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
-  - DOMAIN,stream.embyplus.org
 
   # PiliPili
   - DOMAIN,emby-direct.pilipiliultra.com
