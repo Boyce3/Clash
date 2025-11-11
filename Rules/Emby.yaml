@@ -26,9 +26,6 @@ payload:
 
   # PiliPili
   - DOMAIN-SUFFIX,pilipiliultra.com
-  - DOMAIN,pili.994959.xyz
-  - DOMAIN,caddy.pilipili.me
-  - DOMAIN,vn.pili.im
 
   # 二次元
   - DOMAIN,media.nijigem.by
