@@ -1,7 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-10-30
-
+# UPDATED: 2025-11-11
 payload:
   # 守候影院_机场服
   - DOMAIN,emby.cn2gias.uk
@@ -53,12 +52,10 @@ payload:
   - DOMAIN,cf.imetyou.top
 
   # Lyrebird
-  - DOMAIN,cdn.lyrebirdemby.com
-  - DOMAIN,cdn.2580852.xyz
-  - DOMAIN,inside.lyrebirdemby.com
+  - DOMAIN,stream1.lyrebirdemby.com
+  - DOMAIN,cn-1.lyrebirdemby.online
+  - DOMAIN,cn-2.lyrebirdemby.online
   - IP-CIDR,188.172.228.65/32
-  - DOMAIN,vip1.lyrebirdemby.com
-  - DOMAIN,vip2.lyrebirdemby.com
 
   # Nanflix
   - DOMAIN,us.nanflix.net
