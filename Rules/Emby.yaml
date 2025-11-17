@@ -44,7 +44,6 @@ payload:
   - DOMAIN,cf.imetyou.top
 
   # Lyrebird
-  - # Lyrebird
   - DOMAIN,cn-1.lyrebirdemby.online
   - DOMAIN,cn-2.lyrebirdemby.online
   - IP-CIDR,188.172.228.65/32
