@@ -1,34 +1,6 @@
 # MihomoParty配置
 # UPDATED: 2025-11-24
 
-dns:
-  enable: true
-  listen: 0.0.0.0:53
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  default-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
-  nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
-  fallback:
-    - https://1.1.1.1/dns-query
-    - https://dns.google/dns-query
-  fallback-filter:
-    geoip: true
-    geoip-code: CN
-    ipcidr:
-      - 240.0.0.0/4
-
-tun:
-  enable: true
-  stack: system
-  dns-hijack:
-    - 198.18.0.2:53
-  auto-route: true
-  auto-detect-interface: true
-
 proxy-groups:
   - {name: GLOBAL, type: select, include-all: true, exclude-filter: "流量|到期|剩余|过期|expire|traffic", proxies: [DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png }
   - {name: Emby, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Emby.png }
@@ -79,8 +51,3 @@ rules:
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,Final
-
-unified-delay: true
-tcp-concurrent: true
-find-process-mode: strict
-global-client-fingerprint: chrome
