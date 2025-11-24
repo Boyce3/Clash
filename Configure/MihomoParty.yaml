@@ -42,7 +42,7 @@ rules:
   - RULE-SET,Github,Github
   - RULE-SET,Google,Google
   - RULE-SET,Microsoft,Microsoft
-  - RULE-SET,OpenAi,OpenAi
+  - RULE-SET,AI,AI
   - RULE-SET,Telegram,Telegram
   - RULE-SET,Twitter,Twitter
   - RULE-SET,Youtube,Youtube
