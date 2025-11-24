@@ -12,7 +12,7 @@ proxy-groups:
   - {name: Telegram, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Telegram.png }
   - {name: Twitter, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Twitter.png }
   - {name: Youtube, type: select, proxies: [GLOBAL, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/YouTube.png }
-  - {name: Final, type: select, proxies: [GLOBAL, DIREC, T美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Final.png }
+  - {name: Final, type: select, proxies: [GLOBAL, DIRECT, 美国节点, 德国节点, 日本节点, 韩国节点, 狮城节点, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Final.png }
 
   - {name: 美国节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "美|US|(?i)States|American", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
   - {name: 德国节点, type: url-test, include-all: true, interval: 300, tolerance: 50, filter: "德国|DE|(?i)Germany", icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/DE.png }
