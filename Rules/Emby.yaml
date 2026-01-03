@@ -1,94 +1,59 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2025-11-17
+# UPDATED: 2026-01-03
 payload:
-  # 守候影院_机场服
-  - DOMAIN,emby.cn2gias.uk
-  - DOMAIN,emby01.cn2gias.uk
-
-  # 守候公益
-  - DOMAIN,lite.cn2gias.uk
-
+  # 守候
+  - DOMAIN-SUFFIX,cn2gias.uk
   # 终点站
-  - DOMAIN,pub1.emby.wtf
-  - DOMAIN,pub1.term.wtf
-  - DOMAIN,pub2.emby.wtf
-  - DOMAIN,pub2.term.wtf
-  - DOMAIN,pub3.emby.wtf
-  - DOMAIN,pub3.term.wtf
-
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
   # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
-
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
-
   # PiliPili
   - DOMAIN-SUFFIX,pilipiliultra.com
-
   # 二次元
   - DOMAIN,media.nijigem.by
-  - DOMAIN,default.cdn.bgp.yt
-  - DOMAIN,ct.cdn.bgp.yt
-  - DOMAIN,us-w.cdn.bgp.yt
-  - DOMAIN,cu.cdn.bgp.yt
-
+  - DOMAIN-SUFFIX,cdn.bgp.yt
   # Nyamedia
-  - DOMAIN,emby.bangumi.ca
-
+  - DOMAIN-SUFFIX,bangumi.ca
   # Doubon
   - DOMAIN,onatoshi.114514.quest
-
   # 电报服
   - DOMAIN,cf.imetyou.top
-
   # Lyrebird
-  - DOMAIN,cn-1.lyrebirdemby.online
-  - DOMAIN,cn-2.lyrebirdemby.online
-  - IP-CIDR,188.172.228.65/32
-  - IP-CIDR,138.68.236.33/32
-
+  - DOMAIN-SUFFIX,lyrebirdemby.online
+  - IP-CIDR,188.172.228.65/32,no-resolve
+  - IP-CIDR,138.68.236.33/32,no-resolve
   # Saturday
   - DOMAIN,lite.saturdayvideo.top
-
   # 莉莉服
+  - DOMAIN,www.lilyemby.com
   - DOMAIN-SUFFIX,lilyemby.my
-
   # 非越
-  - DOMAIN,cf.sfcj.org
-  - DOMAIN,cdn.sfcj.org
-
+  - DOMAIN-SUFFIX,sfcj.org
   # 惊蛰
-  - DOMAIN,stream2.jingzhe.pro
-  - DOMAIN,emby.jingzhe.pro
-
+  - DOMAIN-SUFFIX,jingzhe.pro
   # Kiku
   - DOMAIN,emby1.ucloudhost.top
   - DOMAIN,emby2.ucloudhost.top
-
   # HKA
   - DOMAIN,hka-emby.aliz.work
-
   # 飞跃彩虹
   - DOMAIN,ch.feiyue.lol
-
   # 大V影院
-  - DOMAIN,su.viclub.top
-  - DOMAIN,jp.viclub.top
-  - DOMAIN,sg.viclub.top
+  - DOMAIN-SUFFIX,viclub.top
   - DOMAIN,cf.306699.xyz
   - DOMAIN,vi-hk-2.vfing.de
-
   # 叔服
   - DOMAIN,emby3.mcjoker.xyz
-
   # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
   - DOMAIN,lt1.carryz.net
-
   # Levilde
   - DOMAIN,eggtartemby.itsmyduty.top
 
@@ -103,7 +68,4 @@ payload:
   - DOMAIN-SUFFIX,chilledmelon.com
 
   # 肥牛
-  - DOMAIN,emby.feiniu.lol
-  - DOMAIN,emby2.feiniu.lol
-  - DOMAIN,emby3.feiniu.lol
-  - DOMAIN,emby4.feiniu.lol
+  - DOMAIN-SUFFIX,feiniu.lol
