@@ -60,12 +60,9 @@ payload:
   # ----------以下随缘更新---------- #
   # 叶子
   - DOMAIN,gm.yezi.my
-
   # 无界云
   - DOMAIN,emby.mjji.de
-
   # 西瓜
   - DOMAIN-SUFFIX,chilledmelon.com
-
   # 肥牛
   - DOMAIN-SUFFIX,feiniu.lol
