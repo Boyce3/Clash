@@ -25,8 +25,8 @@ payload:
   - DOMAIN,cf.imetyou.top
   # Lyrebird
   - DOMAIN-SUFFIX,lyrebirdemby.online
-  - IP-CIDR,188.172.228.65/32,no-resolve
-  - IP-CIDR,138.68.236.33/32,no-resolve
+  - IP-CIDR,188.172.228.65/32
+  - IP-CIDR,138.68.236.33/32
   # Saturday
   - DOMAIN,lite.saturdayvideo.top
   # 莉莉服
