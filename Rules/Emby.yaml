@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-01-12
+# UPDATED: 2026-01-13
 payload:
   # 守候
   - DOMAIN-SUFFIX,cn2gias.uk
@@ -50,7 +50,7 @@ payload:
   - DOMAIN,dl.carryz.net
   - DOMAIN,lt1.carryz.net
   # Levilde
-  - DOMAIN,eggtartemby.itsmyduty.top
+  - DOMAIN,emby.levilde.bond
 
   # ----------以下随缘更新---------- #
   # 叶子
