@@ -42,8 +42,6 @@ payload:
   # 大V影院
   - DOMAIN-SUFFIX,viclub.top
   - DOMAIN,cf.306699.xyz
-  # 叔服
-  - DOMAIN,emby3.mcjoker.xyz
   # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
