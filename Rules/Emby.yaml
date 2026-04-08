@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-03-31
+# UPDATED: 2026-04-08
 payload:
   # 守候
   - DOMAIN-SUFFIX,cn2gias.uk
@@ -28,7 +28,7 @@ payload:
   - IP-CIDR,188.172.228.65/32
   - IP-CIDR,138.68.236.33/32
   # Saturday
-  - DOMAIN,lite.saturdayvideo.top
+  - DOMAIN,lite.saturdayent.top
   # 莉莉服
   - DOMAIN-SUFFIX,lilyemby.com
   - DOMAIN,origin.lilyemby.cc
