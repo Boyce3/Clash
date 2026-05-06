@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-04-08
+# UPDATED: 2026-05-06
 payload:
   # 守候
   - DOMAIN-SUFFIX,cn2gias.uk
@@ -31,7 +31,7 @@ payload:
   - DOMAIN,lite.saturdayent.top
   # 莉莉服
   - DOMAIN-SUFFIX,lilyemby.com
-  - DOMAIN,origin.lilyemby.cc
+  - DOMAIN,cfstream.lilyya.top
   # 非越
   - DOMAIN-SUFFIX,sfcj.org
   # 惊蛰
