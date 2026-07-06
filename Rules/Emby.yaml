@@ -4,9 +4,6 @@
 payload:
   # 守候
   - DOMAIN-SUFFIX,cn2gias.uk
-  # 终点站
-  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,term.wtf
   # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
   # 纸片人小站
@@ -21,22 +18,6 @@ payload:
   - DOMAIN,onatoshi.114514.quest
   # 电报服
   - DOMAIN,cf.imetyou.top
-  # Lyrebird
-  - DOMAIN-SUFFIX,lyrebirdemby.online
-  - IP-CIDR,188.172.228.65/32
-  - IP-CIDR,138.68.236.33/32
-  # Saturday
-  - DOMAIN,lite.saturdayent.top
-  # 莉莉服
-  - DOMAIN-SUFFIX,lilyemby.com
-  - DOMAIN,cfstream.lilyya.top
-  # 非越
-  - DOMAIN-SUFFIX,sfcj.org
-  - DOMAIN,media.emby.pro
-  # 惊蛰
-  - DOMAIN-SUFFIX,jingzhe.pro
-  # HKA
-  - DOMAIN,hka-emby.aliz.work
   # 大V影院
   - DOMAIN-SUFFIX,viclub.top
   - DOMAIN,cf.306699.xyz
@@ -45,6 +26,18 @@ payload:
   - DOMAIN,cc.embycc.link
   - DOMAIN,dl.carryz.net
   - DOMAIN,lt1.carryz.net
+  # Lyrebird
+  - DOMAIN-SUFFIX,lyrebirdemby.online
+  - IP-CIDR,188.172.228.65/32
+  - IP-CIDR,138.68.236.33/32
+  # Saturday
+  - DOMAIN,lite.saturdayent.top
+    # 非越
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN,media.emby.pro
+  # 莉莉服
+  - DOMAIN-SUFFIX,lilyemby.com
+  - DOMAIN,cfstream.lilyya.top
   # Levilde
   - DOMAIN,emby.levilde.bond
 
