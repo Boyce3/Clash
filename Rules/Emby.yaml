@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-06-01
+# UPDATED: 2026-07-06
 payload:
   # 守候
   - DOMAIN-SUFFIX,cn2gias.uk
@@ -12,8 +12,6 @@ payload:
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
-  # PiliPili
-  - DOMAIN-SUFFIX,pilipiliultra.com
   # 二次元
   - DOMAIN,media.nijigem.by
   - DOMAIN-SUFFIX,cdn.bgp.yt
@@ -39,8 +37,6 @@ payload:
   - DOMAIN-SUFFIX,jingzhe.pro
   # HKA
   - DOMAIN,hka-emby.aliz.work
-  # 飞跃彩虹
-  - DOMAIN,ch.feiyue.lol
   # 大V影院
   - DOMAIN-SUFFIX,viclub.top
   - DOMAIN,cf.306699.xyz
