@@ -1,11 +1,12 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-07-06
+# UPDATED: 2026-08-18
 payload:
-  # 守候
+  # 守候公益
   - DOMAIN-SUFFIX,cn2gias.uk
   # 卷毛鼠
-  - DOMAIN-SUFFIX,jmsuper.com
+  - DOMAIN,mini.cr18.eu.org
+  - DOMAIN,nano.cr18.eu.org
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
@@ -38,15 +39,3 @@ payload:
   # 莉莉服
   - DOMAIN-SUFFIX,lilyemby.com
   - DOMAIN,cfstream.lilyya.top
-  # Levilde
-  - DOMAIN,emby.levilde.bond
-
-  # ----------以下随缘更新---------- #
-  # 叶子
-  - DOMAIN,gm.yezi.my
-  # 无界云
-  - DOMAIN,emby.mjji.de
-  # 西瓜
-  - DOMAIN-SUFFIX,chilledmelon.com
-  # 肥牛
-  - DOMAIN-SUFFIX,feiniu.lol
