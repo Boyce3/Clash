@@ -1,7 +1,9 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-08-18
+# UPDATED: 2026-08-23
 payload:
+  # 终点站
+  - DOMAIN,c.emby.wtf
   # 守候公益
   - DOMAIN-SUFFIX,cn2gias.uk
   # 卷毛鼠
@@ -33,7 +35,7 @@ payload:
   - IP-CIDR,138.68.236.33/32
   # Saturday
   - DOMAIN,lite.saturdayent.top
-    # 非越
+  # 非越
   - DOMAIN-SUFFIX,sfcj.org
   - DOMAIN,media.emby.pro
   # 莉莉服
