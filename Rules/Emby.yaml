@@ -4,6 +4,9 @@
 payload:
   # 终点站
   - DOMAIN,c.emby.wtf
+  # 守候公益
+  - DOMAIN,dc.newsntp.com
+  - DOMAIN,lite.cn2gias.uk
   # 卷毛鼠
   - DOMAIN,mini.cr18.eu.org
   - DOMAIN,nano.cr18.eu.org
