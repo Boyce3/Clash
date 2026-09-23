@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-09-10
+# UPDATED: 2026-09-23
 payload:
   # 终点站
   - DOMAIN,c.emby.wtf
@@ -12,7 +12,7 @@ payload:
   - DOMAIN,nano.cr18.eu.org
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN,gd.9521732.xyz
+  - DOMAIN,stream-v2.9521732.xyz
   # 二次元
   - DOMAIN,media.nijigem.by
   - DOMAIN-SUFFIX,cdn.bgp.yt
