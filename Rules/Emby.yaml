@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-09-28
+# UPDATED: 2026-10-04
 payload:
   # 终点站
   - DOMAIN,c.emby.wtf
@@ -37,7 +37,7 @@ payload:
   - DOMAIN,media.emby.pro
   # 莉莉服
   - DOMAIN-SUFFIX,lilyemby.com
-  - DOMAIN,cfstream.lilyya.top
+  - DOMAIN-KEYWORD,lilyemby
   # 予初
   - DOMAIN,aaa.yusen6.ccwu.cc
   - DOMAIN,emby.yusen.us.ci
