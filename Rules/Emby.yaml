@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-10-04
+# UPDATED: 2026-11-19
 payload:
   # 终点站
   - DOMAIN,c.emby.wtf
@@ -22,6 +22,7 @@ payload:
   - DOMAIN,onatoshi.114514.quest
   # 电报服
   - DOMAIN,cf.imetyou.top
+  - DOMAIN,alisttest.imetyou.top
   # 大V影院
   - DOMAIN-SUFFIX,viclub.top
   - DOMAIN,cf.306699.xyz
