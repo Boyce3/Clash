@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-11-19
+# UPDATED: 2026-11-28
 payload:
   # 终点站
   - DOMAIN,c.emby.wtf
@@ -44,3 +44,4 @@ payload:
   - DOMAIN,emby.yusen.us.ci
   - DOMAIN,embya.yusen.cyou
   - DOMAIN,emby.yusen.cc.cd
+  - DONAIN-SUFFIX,yusen.cyou
